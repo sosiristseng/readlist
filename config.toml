@@ -1,4 +1,4 @@
-baseURL = "https://sosiris-templates.github.io/hugo-doit/"
+baseURL = "https://sosiristseng.github.io/readlist/"
 
 canonifyURLs = false
 relativeURLs = false
