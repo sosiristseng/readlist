@@ -4,22 +4,33 @@ variables:
   GIT_SUBMODULE_STRATEGY: recursive
   HUGO_BASE_URL: "https://sosiristseng.gitlab.io/readlist/"
 
-before_script:
-  - apk add --update --no-cache brotli git
-  - hugo --gc --minify -b ${HUGO_BASE_URL}
-
 test:
   script:
-    - echo "Building finished."
+    - hugo -b ${HUGO_BASE_URL}
   rules:
     - if: '$CI_PIPELINE_SOURCE == "merge_request_event"'
 
 pages:
   script:
+    - apk add --update --no-cache brotli git
+    - hugo --gc --minify -b ${HUGO_BASE_URL}
     - find public -type f -regex '.*\.\(htm\|html\|txt\|text\|js\|css\|svg\|xml\)$' -exec gzip   -f -k {} \; || echo 'Gzip failed. Skipping...'
     - find public -type f -regex '.*\.\(htm\|html\|txt\|text\|js\|css\|svg\|xml\)$' -exec brotli -f -k {} \; || echo 'Brotli failed. Skipping...'
   artifacts:
     paths:
       - public
   rules:
-    - if: "$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH"
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH && $CI_PIPELINE_SOURCE != "schedule"
+
+lychee:
+  image:
+    name: lycheeverse/lychee
+    entrypoint: [""]
+  cache:
+    - key: lychee
+      paths:
+        - .lycheecache
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "schedule"
+  script:
+    - lychee content/ --accept 200,204,429 --verbose --no-progress
