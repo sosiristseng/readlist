@@ -1,18 +1,19 @@
 {
-    "extends": [
-        "config:base"
-    ],
-    "git-submodules": {
-        "enabled": true
-    },
-    "packageRules": [
-        {
-          "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
-          "automerge": true
-        }
-    ],
-    "platformAutomerge": true,
-    "schedule": [
-      "before 3am on the first day of the month"
-    ]
+  "extends": [
+    "config:base"
+  ],
+  "git-submodules": {
+    "enabled": true
+  },
+  "packageRules": [
+    {
+      "matchUpdateTypes": [
+        "minor",
+        "patch",
+        "pin",
+        "digest"
+      ],
+      "automerge": true
+    }
+  ]
 }
