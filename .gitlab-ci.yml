@@ -1,7 +1,6 @@
 image: klakegg/hugo:0.92.1-ext-alpine-ci
 
 variables:
-  GIT_STRATEGY: clone
   GIT_SUBMODULE_STRATEGY: recursive
   HUGO_BASE_URL: "https://sosiristseng.gitlab.io/readlist/"
 
