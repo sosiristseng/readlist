@@ -16,5 +16,10 @@ lychee:
         - .lycheecache
   rules:
     - if: $CI_PIPELINE_SOURCE == "schedule"
+  before_script: []
   script:
-    - lychee content/ --accept 200,204,429 --verbose --no-progress
+    - >
+      lychee content/
+      --accept 200,204,429
+      --verbose --no-progress
+
