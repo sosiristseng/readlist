@@ -1,3 +1,5 @@
+# https://gitlab.com/sosiristseng/gitlab-examples
+
 include:
   - project: "sosiristseng/gitlab-examples"
     file: "/hugo.gitlab-ci.yml"
