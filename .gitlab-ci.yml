@@ -1,25 +1,8 @@
 include:
   - project: "sosiristseng/gitlab-examples"
     file: "/hugo.gitlab-ci.yml"
+  - project: "sosiristseng/gitlab-examples"
+    file: "/lychee.gitlab-ci.yml"
 
 variables:
-  GIT_SUBMODULE_STRATEGY: recursive
   HUGO_BASE_URL: "https://sosiristseng.gitlab.io/readlist/"
-
-lychee:
-  image:
-    name: lycheeverse/lychee
-    entrypoint: [""]
-  cache:
-    - key: lychee
-      paths:
-        - .lycheecache
-  rules:
-    - if: $CI_PIPELINE_SOURCE == "schedule"
-  before_script: []
-  script:
-    - >
-      lychee content/
-      --accept 200,204,429
-      --verbose --no-progress
-
