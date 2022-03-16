@@ -19,7 +19,6 @@ hiddenFromHomePage: false
 hiddenFromSearch: false
 
 twemoji: false
-lightgallery: true
 ruby: true
 fraction: true
 fontawesome: false
@@ -29,6 +28,7 @@ toc:
   auto: true
 math:
   enable: true
+lightgallery: true
 ---
 
 <!--more-->
