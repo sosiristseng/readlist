@@ -1,4 +1,4 @@
-name: github pages
+name: Pages
 
 on:
   push:
@@ -9,13 +9,13 @@ on:
       - main
 
 env:
-  HUGO_BASE_URL: "https://sosiristseng.github.io/readlist/"
+  HUGO_BASE_URL: 'https://sosiristseng.github.io/readlist/'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: checkout master
+      - name: Checkout
         uses: actions/checkout@v3
         with:
           submodules: true # Fetch Hugo themes (true OR recursive)
@@ -23,7 +23,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "latest"
+          hugo-version: 'latest'
           extended: true
       - name: Build
         run: hugo --gc --minify -b ${HUGO_BASE_URL}
