@@ -2,8 +2,9 @@
 title: "Nivala 2010 : Linking flickering to waves and whole-cell oscillations in a mitochondrial network model"
 date: 2020-10-23T00:27:15+08:00
 tags: ["ODE", "ROS", "mitochondria", "cardiomyocyte"]
-categories: ["Reading"]
-author: "Nivala et al."
+categories: []
+series: ["Heart modeling"]
+author: "Nivala and others"
 lightgallery: true
 ---
 

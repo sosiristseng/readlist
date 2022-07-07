@@ -1,9 +1,10 @@
 ---
 title: "Chinopoulos 2011 : Mitochondrial consumption of cytosolic ATP: Not so fast"
 date: 2020-10-22T18:26:51+08:00
-tags: ["review", "adenine nucleotide translocase", "ATP synthase", "ATP", "mitochondria", "cardiomyocyte"]
-categories: ["Reading"]
-author: "Chinopoulos C."
+tags: ["adenine nucleotide translocase", "ATP synthase", "complex 5", "OXPHOS", "ATP", "mitochondria", "cardiomyocyte"]
+categories: ["Review"]
+series: ["Heart modeling", "ETC review"]
+author: "Chinopoulos and others"
 lightgallery: true
 ---
 

@@ -3,22 +3,13 @@ title: "Meyer 2017 : Mitochondrial fusion, fission, and mitochondrial toxicity"
 subtitle: ""
 date: 2021-07-12T21:44:42+08:00
 draft: false
-author: ""
+author: "Meyer and others"
 authorLink: ""
 description: ""
 
-tags: ["mitochondrial dynamics", "GTPase", "review"]
-categories: ["Reading"]
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
-
-toc:
-  enable: true
-lightgallery: true
+tags: ["mitochondrial dynamics", "GTPase"]
+categories: ["Review"]
+series: ["MitoDyn"]
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/4044705/)[^Meyer2017], [PMC5681418](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5681418/)

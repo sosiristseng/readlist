@@ -1,9 +1,10 @@
 ---
 title: "Heijman 2016 : Computational models of atrial cellular electrophysiology and calcium handling, and their role in atrial fibrillation"
 date: 2020-10-23T00:05:07+08:00
-tags: ["ODE", "cardiomyocyte", "electrophysiology", "calcium", "atria", "differential equations"]
-categories: ["Reading"]
-author: "Heijman et al."
+tags: ["ODE", "cardiomyocyte", "electrophysiology", "calcium", "atria"]
+categories: ["Review"]
+series: ["Heart modeling"]
+author: "Heijman and others"
 lightgallery: true
 ---
 

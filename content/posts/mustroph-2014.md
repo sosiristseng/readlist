@@ -1,9 +1,10 @@
 ---
 title: "Mustroph 2014 : CaMKII regulation of cardiac K channels"
 date: 2020-10-23T00:26:39+08:00
-tags: ["CaMKII", "cardiomyocyte", "potassium", "calcium", "review"]
-categories: ["Reading"]
-author: "Mustroph et al."
+tags: ["CaMKII", "cardiomyocyte", "potassium", "calcium"]
+categories: ["Review"]
+series: ["Heart modeling"]
+author: "Mustroph and others"
 lightgallery: true
 ---
 

@@ -1,8 +1,9 @@
 ---
 title: "Nicholls 2016 : The Pancreatic β-Cell A Bioenergetic Perspective"
 date: 2020-10-30T15:00:04+08:00
-tags: ["ATP", "beta-cell", "mitochondria", "review", "proton leak"]
-categories: ["Reading"]
+tags: ["ATP", "beta-cell", "mitochondria", "proton leak"]
+categories: ["Review"]
+series: ["MitoDyn"]
 author: "Nicholls DG"
 lightgallery: true
 ---

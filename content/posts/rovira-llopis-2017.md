@@ -3,22 +3,13 @@ title: "Rovira Llopis 2017 : Mitochondrial dynamics in type 2 diabetes: Pathophy
 subtitle: ""
 date: 2021-07-16T21:05:48+08:00
 draft: false
-author: ""
+author: "Rovira Llopis et al"
 authorLink: ""
 description: ""
 
-tags: ["mitochondria", "mitochondrial dynamics", "beta-cell", "diabetes", "review"]
-categories: ["Reading"]
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
-
-toc:
-  enable: true
-lightgallery: true
+tags: ["mitochondria", "mitochondrial dynamics", "beta-cell", "diabetes"]
+categories: ["Review"]
+series: ["MitoDyn"]
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/5260253)[^RoviraLlopis2017], [PMC5284490](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5284490/)

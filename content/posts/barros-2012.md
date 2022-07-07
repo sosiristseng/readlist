@@ -1,16 +1,19 @@
 ---
-title: "Barros 2012 : Simulations of Complex and Microscopic Models of Cardiac Electrophysiology Powered by Multi-GPU Platforms"
+title: "Barros 2012: Simulations of Complex and Microscopic Models of Cardiac Electrophysiology Powered by Multi-GPU Platforms"
 description: ""
 date: 2020-10-22T17:30:10+08:00
-tags: ["GPU", "electrophysiology", "cardiomyocyte"]
-categories: ["Reading"]
-author: "Barros et al."
+tags: ["GPU", "electrophysiology", "cardiomyocyte", "PDE"]
+categories: []
+series: ["Heart modeling"]
+author: "Barros and others"
 math:
   enable: true
 lightgallery: true
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/4891049) [^Barros2012], [PMC3512298](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3512298/).
+
+[^Barros2012]: Gouvêa de Barros B, Sachetto Oliveira R, Meira W, Lobosco M, Weber dos Santos R. Simulations of complex and microscopic models of cardiac electrophysiology powered by multi-GPU platforms. Comput Math Methods Med. 2012;2012:824569. [PMC3512298](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3512298/).
 
 <!--more-->
 
@@ -59,11 +62,12 @@ $$
 \beta\left(C_{m} \frac{\partial V}{\partial t}\right)=\nabla \cdot(\sigma \nabla V)
 $$
 
-PDE: implicit Euler
+PDE: implicit Euler method
 
 $$
 \frac{\partial V}{\partial t}=\frac{V^{n+1}-V^{n}}{\Delta t_{p}}
 $$
+
 ODE: complex models that are highly based on MCs, the Rush-Larsen (RL) method seems to be ineffective. Resort to explicit Euler method.
 
 Use different time steps for ODE and PDE.
@@ -125,6 +129,3 @@ $$\int_{\partial \Omega} \mathbf{J}_{i, j} \cdot \vec{\xi} d s=\left(I_{x_{i+1 /
 * GPGPU programming of compelx spatial and mechanistic CMC tissue model for 420x acceleration
 * load balancing
 * discrete or discontinuous nature of AP propagation?
-
-## Reference
-[^Barros2012]: Gouvêa de Barros B, Sachetto Oliveira R, Meira W, Lobosco M, Weber dos Santos R. Simulations of complex and microscopic models of cardiac electrophysiology powered by multi-GPU platforms. Comput Math Methods Med. 2012;2012:824569. [PMC3512298](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3512298/).

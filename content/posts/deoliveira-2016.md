@@ -1,10 +1,10 @@
 ---
 title: "Deoliveira 2016 : A biophysical systems approach to identifying the pathways of acute and chronic doxorubicin mitochondrial cardiotoxicity"
 date: 2020-10-22T23:51:33+08:00
-tags: ["differential equations"]
-tags: ["ODE", "mitochondria", "cardiomyocyte", "doxorubicin", "ROS"]
-categories: ["Reading"]
-author: "Deoliveira et al."
+tags: ["ODE", "mitochondria", "cardiomyocyte", "doxorubicin", "ROS", "electron transport chain"]
+categories: []
+series: ["Heart modeling", "ETC review"]
+author: "Deoliveira and others"
 lightgallery: true
 ---
 

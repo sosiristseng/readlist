@@ -1,9 +1,10 @@
 ---
 title: "Jones 2015 : Quantification of the effects of electrical remodeling due to hypertrophic cardiomyopathy on human ventricular electromechanical activity and energetics"
 date: 2020-10-23T00:10:47+08:00
-tags: ["ODE", "mitochondria", "cardiomyocyte"]
-categories: ["Reading"]
-author: "Jones et al."
+tags: ["ODE", "mitochondria", "cardiomyocyte", "electrophysiology"]
+categories: []
+series: ["Heart modeling"]
+author: "Jones and others"
 lightgallery: true
 ---
 

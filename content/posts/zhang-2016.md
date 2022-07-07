@@ -1,8 +1,9 @@
 ---
 title: "Zhang 2016 : Multi-scale Modeling of the Cardiovascular System: Disease Development, Progression, and Clinical Intervention"
 date: 2020-10-23T01:00:24+08:00
-tags: ["cardiomyocyte", "review"]
-categories: ["Reading"]
+tags: ["cardiomyocyte"]
+categories: ["Review"]
+series: ["Heart modeling"]
 author: "Zhang et al."
 lightgallery: true
 ---

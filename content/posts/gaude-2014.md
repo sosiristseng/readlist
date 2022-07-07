@@ -3,22 +3,12 @@ title: "Gaude 2014: Defects in mitochondrial metabolism and cancer"
 subtitle: ""
 date: 2021-11-18T16:21:45+08:00
 draft: false
-author: "Gaude"
+author: "Gaude and others"
 authorLink: ""
-description: ""
 
-tags: ["cancer", "mitochondria", "review", "OXPHOS"]
-categories: ["Reading"]
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
-
-toc:
-  enable: true
-lightgallery: false
+tags: ["cancer", "mitochondria", "OXPHOS"]
+categories: ["Review"]
+series: ["ETC review"]
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/1155151/)[^Gaude2014], [PMC4108232](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4108232/)

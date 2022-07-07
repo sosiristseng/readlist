@@ -1,17 +1,15 @@
 ---
 title: "Colman 2018 : Description of the Human Atrial Action Potential Derived From a Single, Congruent Data Source: Novel Computational Models for Integrated Experimental-Numerical Study of Atrial Arrhythmia Mechanisms"
 date: 2020-10-22T18:28:40+08:00
-tags: ["differential equations"]
 tags: ["ODE", "cardiomyocyte", "electrophysiology", "atria"]
-categories: ["Reading"]
-author: "Colman et al."
+series: ["Heart modeling"]
+author: "Colman and others"
 lightgallery: true
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/5918523)[^Colman2018], [PMC6137999](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6137999)
 
 [^Colman2018]: Colman MA, Saxena P, Kettlewell S, Workman AJ. Description of the Human Atrial Action Potential Derived From a Single, Congruent Data Source: Novel Computational Models for Integrated Experimental-Numerical Study of Atrial Arrhythmia Mechanisms. Front. Physiol. 2018;9:1211. doi:10.3389/fphys.2018.01211.
-
 
 <!--more-->
 

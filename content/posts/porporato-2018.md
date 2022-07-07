@@ -7,18 +7,9 @@ author: "Porporato et al."
 authorLink: ""
 description: ""
 
-tags: ["cancer", "mitochondria", "review"]
-categories: ["Reading"]
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
-
-toc:
-  enable: true
-lightgallery: false
+tags: ["cancer", "mitochondria"]
+categories: [ "Review"]
+series: []
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/5117277/)[^Porporato2018], [PMC5835768](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5835768/)

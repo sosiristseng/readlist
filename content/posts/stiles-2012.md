@@ -1,8 +1,9 @@
 ---
 title: "Stiles 2012 : Mitochondrial dynamics and morphology in beta-cells"
 date: 2020-10-30T10:54:09+08:00
-tags: ["mitochondrial dynamics", "beta-cell", "mitochondria", "review"]
-categories: ["Reading"]
+tags: ["mitochondrial dynamics", "beta-cell", "mitochondria"]
+categories: ["Review"]
+series: ["MitoDyn"]
 author: "Stiles et al."
 lightgallery: true
 ---

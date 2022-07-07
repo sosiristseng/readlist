@@ -2,7 +2,8 @@
 title: "Schlattner 2006 : Mitochondrial creatine kinase in human health and disease"
 date: 2020-10-23T00:41:20+08:00
 tags: ["creatine kinase", "mitochondria"]
-categories: ["Reading"]
+categories: ["Review"]
+series: []
 author: "Schlattner et al."
 lightgallery: true
 ---

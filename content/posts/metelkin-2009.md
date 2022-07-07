@@ -2,9 +2,9 @@
 title: "Metelkin 2009 : Modeling of ATP–ADP steady‐state exchange rate mediated by the adenine nucleotide translocase in isolated mitochondria"
 date: 2020-10-23T00:22:22+08:00
 tags: ["ODE", "adenine nucleotide translocase", "mitochondria", "ATP"]
-categories: ["Reading"]
-author: "Metelkin et al."
-lightgallery: true
+categories: []
+series: ["Heart modeling"]
+author: "Metelkin and others"
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/6151277)[^Metelkin2009], [febs](https://febs.onlinelibrary.wiley.com/doi/full/10.1111/j.1742-4658.2009.07394.x)

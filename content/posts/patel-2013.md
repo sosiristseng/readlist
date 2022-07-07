@@ -3,26 +3,16 @@ title: "Patel 2013 : Optimal dynamics for quality control in spatially distribut
 subtitle: ""
 date: 2021-07-21T16:14:08+08:00
 draft: false
-author: "Patel"
+author: "Patel et al."
 
 tags: ["mitochondria", "mitochondrial dynamics", "agent-based modeling", "stochastic simulation"]
-categories: ["Reading"]
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
-
-toc:
-  enable: true
-lightgallery: true
+categories: []
+series: ["MitoDyn"]
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/8390523)[^Patel2013], [PMC3708874](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3708874/)
 
 [^Patel2013]: Patel PK, Shirihai O, Huang KC. Optimal dynamics for quality control in spatially distributed mitochondrial networks. PLoS Comput Biol. 2013 Jul 11;9(7):e1003108.
-
 
 <!--more-->
 

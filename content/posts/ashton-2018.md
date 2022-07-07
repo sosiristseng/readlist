@@ -3,18 +3,12 @@ title: "Ashton 2018: Oxidative Phosphorylation as an Emerging Target in Cancer T
 subtitle: ""
 date: 2021-11-25T17:41:13+08:00
 draft: false
-author: ""
+author: "Ashton and others"
 authorLink: ""
 description: ""
 
 tags: ["cancer", "OXPHOS", "review"]
-categories: ["Reading"]
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
+categories: ["Review"]
 
 toc:
   enable: true

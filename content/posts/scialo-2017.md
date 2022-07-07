@@ -2,8 +2,9 @@
 title: "Scialo 2017 : Role of mitochondrial reverse electron transport in ROS signaling: potential roles in health and disease"
 date: 2020-10-23T00:43:02+08:00
 tags: ["ROS", "complex 1", "mitochondria"]
-categories: ["Reading"]
-author: "Scialo et al."
+categories: []
+series: ["ETC review"]
+author: "Scialo et al"
 lightgallery: true
 ---
 

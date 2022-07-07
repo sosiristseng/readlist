@@ -1,8 +1,9 @@
 ---
 title: "Trayanova 2012 : Computational cardiology: how computer simulations could be used to develop new therapies and advance existing ones"
 date: 2020-10-23T00:53:57+08:00
-tags: ["ODE", "cardiomyocyte", "review", "PDE"]
-categories: ["Reading"]
+tags: ["ODE", "cardiomyocyte", "PDE"]
+categories: ["Review"]
+series: ["Heart modeling"]
 author: "Trayanova et al."
 lightgallery: true
 ---

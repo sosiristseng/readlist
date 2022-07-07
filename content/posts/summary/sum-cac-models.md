@@ -2,7 +2,7 @@
 title: "Mathemetical modeling of the citric acid cycle (CAC): a summary"
 date: 2020-10-23T00:47:32+08:00
 tags: ["calcium", "citric acid cycle", "mitochondria", "summary"]
-categories: ["Reading"]
+categories: []
 lightgallery: true
 ---
 

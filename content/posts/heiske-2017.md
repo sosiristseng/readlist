@@ -1,9 +1,10 @@
 ---
 title: "Heiske 2017 : Comprehensive mathematical model of oxidative phosphorylation valid for physiological and pathological conditions"
 date: 2020-10-23T00:05:44+08:00
-tags: ["ODE", "mitochondria", "cardiomyocyte", "differential equations"]
-categories: ["Reading"]
-author: "Heiske et al."
+tags: ["ODE", "mitochondria", "cardiomyocyte", "OXPHOS"]
+categories: []
+series: ["Heart modeling"]
+author: "Heiske and others"
 lightgallery: true
 ---
 

@@ -1,8 +1,9 @@
 ---
 title: "Fernandezchas 2018 : Mechanism of doxorubicin cardiotoxicity evaluated by integrating multiple molecular effects into a biophysical model"
 date: 2020-10-22T23:57:39+08:00
-tags: ["ODE", "doxorubicin", "cardiomyocyte"]
-categories: ["Reading"]
+tags: ["ODE", "doxorubicin", "cardiomyocyte", "quantitative systems pharmacology"]
+categories: []
+series: ["Heart modeling"]
 author: "Fernandez-Chas"
 lightgallery: true
 ---

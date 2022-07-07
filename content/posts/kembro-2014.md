@@ -2,9 +2,9 @@
 title: "Kembro 2014 : Complex oscillatory redox dynamics with signaling potential at the edge between normal and pathological mitochondrial function"
 date: 2020-10-23T00:12:23+08:00
 tags: ["ODE", "mitochondria", "cardiomyocyte", "ROS"]
-categories: ["Reading"]
-author: "Kembro et al."
-lightgallery: true
+categories: ["Review"]
+series: ["Heart modeling"]
+author: "Kembro and others"
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/5616230) [^Kembro2014]

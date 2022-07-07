@@ -1,10 +1,10 @@
 ---
 title: "Demin 2001 : Kinetic Modeling of Energy Metabolism and Superoxide Generation in Hepatocyte Mitochondria"
 date: 2020-10-22T23:50:50+08:00
-tags: ["differential equations"]
-tags: ["ODE", "complex 3", "complex 4", "enzyme kinetics", "ROS", "mitochondria", "hepatocyte", "differential equations"]
-categories: ["Reading"]
-author: "Demin et al."
+tags: ["ODE", "complex 3", "complex 4", "enzyme kinetics", "ROS", "mitochondria", "hepatocyte", "electron transport chain"]
+categories: []
+series: ["Heart modeling", "ETC review"]
+author: "Demin and others"
 lightgallery: true
 ---
 

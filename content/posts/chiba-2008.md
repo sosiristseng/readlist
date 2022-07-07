@@ -1,13 +1,17 @@
 ---
 title: "Chiba 2008 : A simulation study on the activation of cardiac CaMKII delta-isoform and its regulation by phosphatases"
 date: 2020-10-22T18:23:58+08:00
-tags: ["ODE", "CaMKII", "cardiomyocyte", "enzyme kinetics", "differential equations"]
-categories: ["Reading"]
-author: "Chiba et al."
+tags: ["ODE", "CaMKII", "cardiomyocyte", "enzyme kinetics", "calcium"]
+categories: []
+series: ["Heart modeling"]
+author: "Chiba and others"
 lightgallery: true
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/257440)[^Chiba2008], [PMC2517018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2517018)
+
+[^Chiba2008]: Chiba H, Schneider NS, Matsuoka S, Noma A. A simulation study on the activation of cardiac CaMKII delta-isoform and its regulation by phosphatases. Biophys. J. 2008;95(5):2139-2149. doi:10.1529/biophysj.107.118505.
+
 
 <!--more-->
 
@@ -77,7 +81,7 @@ lightgallery: true
 * CaMKIIα (black) and CaMKIIδ (red)
 * 2 mM ATP and different [Ca2+] (0.1–100 μM), 1 μM CaMKII and 1.25 μM PP1 were incubated with 5 μM CaM at 0°C
 
-###### Effects of [PP1] variation on the frequency-dependent activation of CaMKII
+**Effects of [PP1] variation on the frequency-dependent activation of CaMKII**
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0006349508783632-gr8_lrg.gif)
 * a role of PPs in the dynamic adjustment of CaMKIIδ activity over the physiological range of the heart rate
 
@@ -122,4 +126,3 @@ lightgallery: true
 
 Only kcat is temperature dependent in this model.
 
-[^Chiba2008]: Chiba H, Schneider NS, Matsuoka S, Noma A. A simulation study on the activation of cardiac CaMKII delta-isoform and its regulation by phosphatases. Biophys. J. 2008;95(5):2139-2149. doi:10.1529/biophysj.107.118505.

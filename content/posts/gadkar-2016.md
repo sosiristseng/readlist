@@ -1,9 +1,9 @@
 ---
 title: "Gadkar 2016 : Quantitative systems pharmacology: a promising approach for translational pharmacology"
 date: 2020-10-22T23:59:02+08:00
-tags: ["quantitative systems pharmacology", "review"]
-categories: ["Reading"]
-author: "Gadkar et al."
+tags: ["quantitative systems pharmacology"]
+categories: ["Review"]
+author: "Gadkar and others"
 lightgallery: true
 ---
 

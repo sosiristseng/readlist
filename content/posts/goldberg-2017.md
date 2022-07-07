@@ -2,25 +2,20 @@
 title: "Goldberg 2017 : Emerging whole-cell modeling principles and methods"
 subtitle: ""
 date: 2021-04-08T16:53:04+08:00
-author: "Goldberg et al."
+author: "Goldberg and others"
 
-tags: ["review"]
-categories: ["Reading"]
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
+tags: ["ODE"]
+categories: ["Review"]
+series: []
 
 toc:
   enable: true
 lightgallery: false
 ---
 
-[Sciwheel](https://sciwheel.com/work/#/items/4651953/) [^1], [PMC5997489](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5997489/)
+[Sciwheel](https://sciwheel.com/work/#/items/4651953) [^Goldberg2017], [PMC5997489](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5997489/)
 
-[^1]: Goldberg AP, Szigeti B, Chew YH, Sekar JA, Roth YD, Karr JR. Emerging whole-cell modeling principles and methods. Curr Opin Biotechnol. 2018;51:97–102.
+[^Goldberg2017]: Goldberg AP, Szigeti B, Chew YH, Sekar JA, Roth YD, Karr JR. Emerging whole-cell modeling principles and methods. Curr Opin Biotechnol. 2018;51:97–102.
 
 Whole-cell (WC) computational models aim to predict cellular phenotypes from genotype and the environment by representing the function of each gene, gene product, and metabolite.
 

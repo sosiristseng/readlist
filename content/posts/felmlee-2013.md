@@ -2,8 +2,9 @@
 title: "Felmlee 2013 : Mechanism-based pharmacodynamic modeling"
 date: 2020-10-22T23:52:58+08:00
 tags: ["quantitative systems pharmacology", "enzyme kinetics"]
-categories: ["Reading"]
-author: "Felmlee et al."
+categories: ["Review"]
+series: ["Heart modeling"]
+author: "Felmlee and others"
 lightgallery: true
 ---
 

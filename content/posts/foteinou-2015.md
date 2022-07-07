@@ -2,8 +2,9 @@
 title: "Foteinou 2015 : Mechanistic investigation of the arrhythmogenic role of oxidized camkii in the heart"
 date: 2020-10-22T23:58:20+08:00
 tags: ["ODE", "CaMKII", "electrophysiology", "cardiomyocyte", "calcium"]
-categories: ["Reading"]
-author: "Foteinou et al."
+categories: []
+series: ["Heart modeling"]
+author: "Foteinou and others"
 math:
   enable: false
 lightgallery: true

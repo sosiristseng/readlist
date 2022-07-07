@@ -3,22 +3,13 @@ title: "Montemurro 2017 : Cell cycle-related metabolism and mitochondrial dynami
 subtitle: ""
 date: 2021-07-21T10:36:08+08:00
 draft: false
-author: ""
+author: "Montemurro and others"
 authorLink: ""
 description: ""
 
 tags: ["mitochondria", "mitochondrial dynamics", "beta-cell"]
-categories: ["Reading"]
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
-
-toc:
-  enable: true
-lightgallery: true
+categories: []
+series: ["MitoDyn"]
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/7977689)[^Montemurro2017], [PMC5731404](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5731404)

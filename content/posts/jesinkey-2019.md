@@ -3,28 +3,18 @@ title: "Jesinkey 2019 : Mitochondrial GTP links nutrient sensing to β cell heal
 subtitle: ""
 date: 2021-07-20T17:54:43+08:00
 draft: false
-author: ""
+author: "Jesinkey and others"
 authorLink: ""
 description: ""
 
-tags: ["mitochondria", "mitochondrial dynamics", "ATP", "beta-cell", "GTP", "citric acid cycle"]
-categories: ["Reading"]
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
-
-toc:
-  enable: true
-lightgallery: true
+tags: ["mitochondria", "mitochondrial dynamics", "ATP", "beta-cell", "GTPase", "citric acid cycle"]
+categories: []
+series: ["MitoDyn"]
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/7382680)[^Jesinkey2019], [PMC6713209](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6713209/)
 
 [^Jesinkey2019]: Jesinkey SR, Madiraju AK, Alves TC, Yarborough OH, Cardone RL, Zhao X, et al. Mitochondrial GTP links nutrient sensing to β cell health, mitochondrial morphology, and insulin secretion independent of oxphos. Cell Rep. 2019 Jul 16;28(3):759-772.e10.
-
 
 <!--more-->
 

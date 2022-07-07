@@ -2,8 +2,9 @@
 title: "Grandi 2016 : Anti-arrhythmic strategies for atrial fibrillation: The role of computational modeling in discovery, development, and optimization"
 date: 2020-10-23T00:02:00+08:00
 tags: ["cardiomyocyte", "electrophysiology", "atria"]
-categories: ["Reading"]
-author: "Grandi et al."
+categories: ["Review"]
+series: ["Heart modeling"]
+author: "Grandi and others"
 lightgallery: true
 ---
 

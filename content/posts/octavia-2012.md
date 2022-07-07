@@ -1,9 +1,10 @@
 ---
 title: "Octavia 2012 : Doxorubicin-induced cardiomyopathy: From molecular mechanisms to therapeutic strategies"
 date: 2020-10-23T00:28:42+08:00
-tags: ["doxorubicin", "cardiomyocyte", "review"]
-categories: ["Reading"]
-author: "Octavia et al."
+tags: ["doxorubicin", "cardiomyocyte", "ROS"]
+categories: ["Review"]
+series: ["Heart modeling"]
+author: "Octavia and others"
 lightgallery: true
 ---
 

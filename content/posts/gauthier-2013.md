@@ -1,9 +1,10 @@
 ---
 title: "Gauthier 2013 : An integrated mitochondrial ROS production and scavenging model: implications for heart failure"
 date: 2020-10-23T00:01:05+08:00
-tags: ["ODE", "mitochondria", "ROS", "cardiomyocyte"]
-categories: ["Reading"]
-author: "Gauthier et al."
+tags: ["ODE", "mitochondria", "ROS", "cardiomyocyte", "citric acid cycle", "OXPHOS", "electron transport chain"]
+categories: []
+series: ["Heart modeling", "ETC review"]
+author: "Gauthier and others"
 lightgallery: true
 ---
 

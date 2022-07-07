@@ -1,9 +1,10 @@
 ---
 title: "Christensen 2009 : Oxidized calmodulin kinase II regulates conduction following myocardial infarction: a computational analysis"
 date: 2020-10-22T18:27:44+08:00
-tags: ["ODE", "CaMKII", "cardiomyocyte", "ROS", "enzyme kinetics", "differential equations"]
-categories: ["Reading"]
-author: "Christensen et al."
+tags: ["ODE", "CaMKII", "calcium", "cardiomyocyte", "ROS", "enzyme kinetics"]
+categories: []
+series: ["Heart modeling"]
+author: "Christensen and others"
 lightgallery: true
 ---
 

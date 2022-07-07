@@ -3,17 +3,13 @@ title: "Fridlyand 2010 : Glucose sensing in the pancreatic beta cell: a computat
 subtitle: ""
 date: 2021-07-20T22:10:49+08:00
 draft: false
-author: ""
+author: "Fridlyand and others"
 authorLink: ""
 description: ""
 
-tags: ["mitochondria", "mitochondrial dynamics", "ATP", "beta-cell", "glycolysis", "calcium", "differential equations"]
-categories: ["Reading"]
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
+tags: ["mitochondria", "ATP", "beta-cell", "glycolysis", "calcium", "ODE"]
+categories: []
+series: ["MitoDyn"]
 
 toc:
   enable: true

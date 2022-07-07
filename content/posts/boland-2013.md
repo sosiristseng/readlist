@@ -3,18 +3,13 @@ title: "Boland 2013: Mitochondrial Dysfunction in Cancer"
 subtitle: ""
 date: 2021-11-18T23:08:39+08:00
 draft: false
-author: ""
+author: "Boland and others"
 authorLink: ""
 description: ""
 
-tags: ["cancer", "mitochondria", "review", "mitochondrial dynamics"]
-categories: ["Reading"]
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
+tags: ["cancer", "mitochondria", "mitochondrial dynamics"]
+categories: ["Review"]
+series: ["MitoDyn"]
 
 toc:
   enable: true

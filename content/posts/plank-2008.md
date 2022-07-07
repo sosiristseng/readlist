@@ -1,8 +1,9 @@
 ---
 title: "Plank 2008 : From mitochondrial ion channels to arrhythmias in the heart: computational techniques to bridge the spatio-temporal scales"
 date: 2020-10-23T00:34:09+08:00
-tags: ["PDE", "mitochondria", "cardiomyocyte", "review", "ODE"]
-categories: ["Reading"]
+tags: ["PDE", "mitochondria", "cardiomyocyte", "ODE"]
+categories: ["Review"]
+series: ["Heart modeling"]
 author: "Plank et al."
 lightgallery: true
 ---

@@ -3,22 +3,13 @@ title: "Hardie 2018 : Keeping the home fires burning: AMP-activated protein kina
 subtitle: ""
 date: 2021-07-14T22:52:59+08:00
 draft: false
-author: ""
+author: "Hardie and others"
 authorLink: ""
 description: ""
 
-tags: ["adenylate kinase", "AMPK", "mitochondria", "ATP", "review"]
-categories: ["Reading"]
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
-
-toc:
-  enable: true
-lightgallery: true
+tags: ["adenylate kinase", "AMPK", "AMP", "mitochondria", "ATP"]
+categories: ["Review"]
+series: ["MitoDyn"]
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/7457141/)[^Hardie2018], [PMC5805978](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5805978)

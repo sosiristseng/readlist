@@ -2,7 +2,8 @@
 title: "Zorov 2014 : Mitochondrial Reactive Oxygen Species (ROS) and ROS-Induced ROS Release"
 date: 2020-10-23T01:05:49+08:00
 tags: ["ROS", "mitochondria"]
-categories: ["Reading"]
+categories: ["Review"]
+series: ["Heart modeling"]
 author: "Zorov et al."
 lightgallery: true
 ---

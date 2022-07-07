@@ -1,13 +1,16 @@
 ---
 title: "Alberty 2006 : Relations between biochemical thermodynamics and biochemical kinetics"
 date: 2020-10-22T17:13:03+08:00
-tags: ["enzyme kinetics"]
-categories: ["Reading"]
-author: Alberty
+tags: ["enzyme kinetics", "thermodynamics"]
+categories: []
+series: ["ETC review"]
+author: Alberty and others
 lightgallery: true
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/5673496)[^Alberty2006]
+
+[^Alberty2006]: Alberty RA. Relations between biochemical thermodynamics and biochemical kinetics. Biophys. Chem. 2006;124(1):11-17. doi:10.1016/j.bpc.2006.05.024.
 
 <!--more-->
 
@@ -139,4 +142,3 @@ in terms of the rate constants of the steps in the forward and reverse direction
 
 * When **magnesium ions** or other divalent cations are present, their effects on the thermodynamics of enzyme-catalyzed reactions can be **handled in the same way as effects of hydrogen ions**. Just introduce p Mg as an independent variable of the transformed Gibbs energy in addition to pH.
 
-[^Alberty2006]: Alberty RA. Relations between biochemical thermodynamics and biochemical kinetics. Biophys. Chem. 2006;124(1):11-17. doi:10.1016/j.bpc.2006.05.024.

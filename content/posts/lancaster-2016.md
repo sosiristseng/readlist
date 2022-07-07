@@ -2,9 +2,9 @@
 title: "Lancaster 2016 : Improved Prediction of Drug‐Induced Torsades de Pointes Through Simulations of Dynamics and Machine Learning Algorithms"
 date: 2020-10-23T00:17:08+08:00
 tags: ["cardiomyocyte", "machine learning", "electrophysiology"]
-categories: ["Reading"]
-author: "Lancaster et al."
-lightgallery: true
+categories: []
+series: ["Heart modeling"]
+author: "Lancaster and others"
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/5876765) [^Lancaster2016],  [ASCPT](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/cpt.367)

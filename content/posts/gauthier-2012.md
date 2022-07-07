@@ -1,9 +1,10 @@
 ---
 title: "Gauthier 2012 : Toward an integrative computational model of the Guinea pig cardiac myocyte"
 date: 2020-10-23T00:00:27+08:00
-tags: ["ODE", "cardiomyocyte", "mitochondria", "differential equations"]
-categories: ["Reading"]
-author: "Gauthier et al."
+tags: ["ODE", "cardiomyocyte", "mitochondria", "citric acid cycle", "OXPHOS", "electron transport chain"]
+categories: []
+series: ["Heart modeling", "ETC review"]
+author: "Gauthier and others"
 lightgallery: true
 ---
 
@@ -25,9 +26,9 @@ lightgallery: true
 
 ## Ion channels and Ca2+ cycling
 * Based-on ECME model
-* delayed rectifier (IK) : Zeng, 1995 (IKs + IKr)
+* Delayed rectifier potassium (IK) : Zeng, 1995 (IKs + IKr)
 * NCX: Weber, 2011
-* A mitochondrial Na+-H+ exchanger: Wei, 2011
+* A mitochondrial $Na^+$ - $H^+$ exchanger: Wei, 2011
 * ATP-dependent K+ current: Ferrero 1996
 * For Ca removal, the SR Ca2+-ATPase (SERCa) takes up 65.9% of the transported cytosolic Ca2+, NCX removes 28.9%, and the sarcolemmal (SL) Ca-pump removes 5.1%
 ![](https://www.frontiersin.org/files/Articles/25359/fphys-03-00244-r2/image_m/fphys-03-00244-g004.jpg)

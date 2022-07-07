@@ -3,12 +3,13 @@ title: "Sukhorukov 2012 : Emergence of the mitochondrial reticulum from fission 
 subtitle: ""
 date: 2021-07-15T22:43:06+08:00
 draft: false
-author: ""
+author: "Sukhorukov et al"
 authorLink: ""
 description: ""
 
 tags: ["mitochondria", "mitochondrial dynamics", "agent-based modeling"]
-categories: ["Reading"]
+categories: []
+series: ["MitoDyn"]
 
 hiddenFromHomePage: false
 hiddenFromSearch: false

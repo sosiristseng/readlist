@@ -7,7 +7,8 @@ authorLink: ""
 description: ""
 
 tags: ["mitochondrial dynamics", "mitochondria"]
-categories: ["Reading"]
+categories: []
+series: ["MitoDyn"]
 
 hiddenFromHomePage: false
 hiddenFromSearch: false

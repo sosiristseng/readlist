@@ -2,9 +2,9 @@
 title: "Jastroch 2010 : Mitochondrial proton and electron leaks"
 date: 2020-10-23T00:10:08+08:00
 tags: ["ROS", "mitochondria", "proton leak"]
-categories: ["Reading"]
-author: "Jastroch et al."
-lightgallery: true
+categories: ["Review"]
+series: ["Heart modeling"]
+author: "Jastroch and others"
 ---
 
 [^Jastroch2010]: Jastroch M, Divakaruni AS, Mookerjee S, Treberg JR, Brand MD. Mitochondrial proton and electron leaks. Essays Biochem. 2010;47:53-67.

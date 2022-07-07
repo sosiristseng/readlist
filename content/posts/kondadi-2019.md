@@ -3,22 +3,13 @@ title: "Kondadi 2019 : Functional Interplay between Cristae Biogenesis, Mitochon
 subtitle: ""
 date: 2021-07-16T11:54:00+08:00
 draft: false
-author: ""
+author: "Kondadi and others"
 authorLink: ""
 description: ""
 
-tags: ["mitochondria", "mitochondrial dynamics", "mtDNA", "review"]
-categories: ["Reading"]
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
-
-toc:
-  enable: true
-lightgallery: true
+tags: ["mitochondria", "mitochondrial dynamics", "mtDNA"]
+categories: ["Review"]
+series: ["MitoDyn"]
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/7880744)[^Kondadi2019], [PMC6747513](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6747513/)

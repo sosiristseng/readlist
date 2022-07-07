@@ -1,9 +1,10 @@
 ---
 title: "Mullins 2013 : A Mathematical Model of the Mouse Ventricular Myocyte Contraction"
 date: 2020-10-23T00:26:01+08:00
-tags: ["ODE", "cardiomyocyte"]
-categories: ["Reading"]
-author: "Mullins et al."
+tags: ["ODE", "cardiomyocyte", "calcium"]
+categories: []
+series: ["Heart modeling"]
+author: "Mullins and others"
 lightgallery: true
 ---
 
@@ -37,13 +38,10 @@ lightgallery: true
 * two nonpermissive tropomyosin states (N0 and N1) and four permissive tropomyosin states (P0, P1, P2, and P3)
 * All transition rates in the model are Ca2+-independent, except for kNP, which depends on the concentration of troponin with Ca2+ bound to a low-affinity binding site
 * twitch contraction, where Fcontrn is time-dependent: Hooke’s law (SL0 = initial value of SL)
-![eqn9](https://user-images.githubusercontent.com/40054455/86704669-b4fe5800-c047-11ea-8cb8-8b39f558a9b1.jpg)
-
+  ![eqn9](https://user-images.githubusercontent.com/40054455/86704669-b4fe5800-c047-11ea-8cb8-8b39f558a9b1.jpg)
 * variable cell length: (L0 = 100 µm)
-![eqn10](https://user-images.githubusercontent.com/40054455/86704674-b596ee80-c047-11ea-866d-8ca43378971d.jpg)
-
+  ![eqn10](https://user-images.githubusercontent.com/40054455/86704674-b596ee80-c047-11ea-866d-8ca43378971d.jpg)
 * stimulated with different frequencies using a stimulus current (Istim = 80 pA/pF, τstim = 0.5 ms) for at least 200,000 ms to reach a quasi-steady state
-
 * 51 ordinary differential equations
 
 ## Results

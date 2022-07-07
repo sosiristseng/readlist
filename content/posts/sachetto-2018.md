@@ -1,8 +1,9 @@
 ---
 title: "Sachetto 2018 : Performance evaluation of GPU parallelization, space-time adaptive algorithms, and their combination for simulating cardiac electrophysiology"
 date: 2020-10-23T00:39:21+08:00
-tags: ["GPU", "electrophysiology", "cardiomyocyte", "PDE", "review"]
-categories: ["Reading"]
+tags: ["GPU", "electrophysiology", "cardiomyocyte", "PDE",]
+categories: ["Review"]
+series: ["Heart modeling"]
 author: "Sachetto et al."
 lightgallery: true
 ---

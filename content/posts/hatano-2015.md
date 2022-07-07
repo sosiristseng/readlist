@@ -2,9 +2,9 @@
 title: "Hatano 2015 : Distinct Functional Roles of Cardiac Mitochondrial Subpopulations Revealed by a 3D Simulation Model"
 date: 2020-10-23T00:04:20+08:00
 tags: ["PDE", "cardiomyocyte", "ATP", "mitochondria"]
-categories: ["Reading"]
-author: "Hatano et al."
-lightgallery: true
+categories: []
+series: ["Heart modeling"]
+author: "Hatano and others"
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/3609754)[^Hatano2015], [PMC4457478](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4457478/).

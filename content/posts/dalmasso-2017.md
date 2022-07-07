@@ -3,18 +3,13 @@ title: "Dalmasso 2017 : Agent-Based Modeling of Mitochondria Links Sub-Cellular 
 subtitle: ""
 date: 2021-07-15T21:58:22+08:00
 draft: false
-author: ""
+author: "Dalmasso and others"
 authorLink: ""
 description: ""
 
 tags: ["mitochondria", "mitochondrial dynamics", "agent-based modeling"]
-categories: ["Reading"]
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
+categories: []
+series: ["MitoDyn"]
 
 toc:
   enable: true

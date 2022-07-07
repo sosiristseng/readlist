@@ -1,8 +1,9 @@
 ---
 title: "Henriksen 2018 : Anthracycline cardiotoxicity: an update on mechanisms, monitoring and prevention"
 date: 2020-10-23T00:06:36+08:00
-tags: ["doxorubicin", "cardiomyocyte", "review"]
-categories: ["Reading"]
+tags: ["doxorubicin", "cardiomyocyte", "ROS"]
+categories: ["Review"]
+series: ["Heart modeling"]
 author: "Henriksen PA"
 lightgallery: true
 ---

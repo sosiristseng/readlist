@@ -1,9 +1,10 @@
 ---
-title: "Benard 2007 : Mitochondrial bioenergetics and structural network organization"
+title: "Benard 2007: Mitochondrial bioenergetics and structural network organization"
 date: 2020-10-29T16:25:30+08:00
 tags: ["mitochondrial dynamics", "mitochondria", "ATP"]
-categories: ["Reading"]
-author: "Benard et al."
+categories: []
+series: ["MitoDyn"]
+author: "Benard and others"
 lightgallery: true
 ---
 
@@ -18,7 +19,6 @@ lightgallery: true
 Close relationship between energy production and mt-network organization.
 
 - Observations of Hackenbrock (Hackenbrock, 1966; Hackenbrock, 1968; Hackenbrock et al., 1971) revealed a rapid and reversible change of the mitochondrion from the so-called `orthodox' to `condensed' conformations upon activation of ATP synthesis
-
 - The opposite is also true, because pathological mutations in genes responsible for mitochondrial fusion or fission have been associated with alterations in the organization of the mt-network and with the inhibition of energy metabolism
 
 Study:  Analysis of the crosstalk between mitochondrial bioenergetics and organelle-network organization.

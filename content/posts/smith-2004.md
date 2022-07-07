@@ -1,8 +1,9 @@
 ---
 title: "Smith 2004 : Development of models of active ion transport for whole-cell modelling: cardiac sodium-potassium pump as a case study"
 date: 2020-10-23T00:44:58+08:00
-tags: ["cardiomyocyte", "enzyme kinetics", "NKA"]
-categories: ["Reading"]
+tags: ["cardiomyocyte", "enzyme kinetics", "Sodium-potassium ATPase"]
+categories: []
+series: ["Heart modeling"]
 author: "Smith et al."
 lightgallery: true
 ---

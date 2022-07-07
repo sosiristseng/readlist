@@ -3,26 +3,14 @@ title: "Giedt 2016: Computational imaging reveals mitochondrial morphology as a 
 subtitle: ""
 date: 2022-01-01T15:20:27+08:00
 draft: false
-author: "Giedt"
+author: "Giedt and others"
 authorLink: ""
 description: ""
 
 tags: ["mitochondrial dynamics", "cancer", "bioimaging"]
-categories: ["Reading"]
-series: []
+categories: []
+series: ["MitoDyn"]
 seriesNavigation: true
-
-featuredImage: ""
-featuredImagePreview: ""
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-twemoji: false
-lightgallery: true
-ruby: true
-fraction: true
-fontawesome: false
 
 toc:
   enable: true

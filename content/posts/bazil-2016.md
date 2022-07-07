@@ -3,8 +3,9 @@ title: "Bazil 2016 : Catalytic Coupling of Oxidative Phosphorylation, ATP Demand
 date: 2020-10-22T17:43:36+08:00
 tags: ["differential equations"]
 tags: ["ODE", "mitochondria", "ROS", "complex 1", "complex 3", "complex 4" ,"cardiomyocyte"]
-categories: ["Reading"]
-author: "Bazil et al."
+categories: []
+series: ["Heart modeling", "ETC review"]
+author: "Bazil and others"
 lightgallery: true
 ---
 

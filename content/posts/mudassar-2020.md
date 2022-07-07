@@ -3,24 +3,13 @@ title: "Mudassar 2020: Targeting tumor hypoxia and mitochondrial metabolism with
 subtitle: ""
 date: 2021-11-18T22:38:53+08:00
 draft: false
-author: ""
+author: "Mudassar and others"
 authorLink: ""
 description: ""
 
-tags: ["cancer", "mitochondria", "review", "OXPHOS"]
-categories: ["Reading"]
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
-
-toc:
-  enable: true
-math:
-  enable: false
-lightgallery: false
+tags: ["cancer", "mitochondria", "OXPHOS"]
+categories: ["Review"]
+series: []
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/9267342)[^Mudassar2020]. [PMC7542384](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7542384/)

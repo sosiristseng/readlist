@@ -1,20 +1,15 @@
 ---
-title: "Anello 2005 : Functional and morphological alterations of mitochondria in pancreatic beta cells from type 2 diabetic patients"
+title: "Anello 2005: Functional and morphological alterations of mitochondria in pancreatic beta cells from type 2 diabetic patients"
 subtitle: ""
 date: 2021-07-11T22:24:43+08:00
 draft: false
-author: "Anello et. al"
+author: "Anello and others"
 authorLink: ""
 description: ""
 
 tags: ["mitochondrial dynamics", "beta-cell", "ATP", "diabetes"]
-categories: ["Reading"]
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
+categories: []
+series: ["MitoDyn"]
 
 toc:
   enable: true
@@ -34,5 +29,4 @@ lightgallery: true
 
 ![image](https://user-images.githubusercontent.com/40054455/125199541-3e6aea80-e299-11eb-918d-4d9dfcff6752.png)
 
-
-Compared to control islets, diabetic islets showed reduced insulin secretion in response to glucose, and this defect was associated with lower ATP levels, a lower ATP/ADP ratio and impaired hyperpolarization of the mitochondrial membrane. Morphology studies showed that control and diabetic beta cells had a similar number of mitochondria; however, mitochondrial density volume was significantly higher in type 2 diabetic beta cells.
+Compared to control islets, diabetic islets showed *reduced insulin secretion in response to glucose*, and this defect was associated with *lower ATP levels*, a *lower ATP/ADP ratio* and *impaired hyperpolarization of the mitochondrial membrane*. Morphology studies showed that control and diabetic beta cells had a similar number of mitochondria; however, mitochondrial density volume was significantly higher in type 2 diabetic beta cells.

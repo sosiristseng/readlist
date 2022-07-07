@@ -1,12 +1,10 @@
 ---
 title: "Roberts 2012 : Computational approaches to understand cardiac electrophysiology and arrhythmias"
 date: 2020-10-23T00:36:48+08:00
-tags: ["cardiomyocyte", "ODE", "PDE", "electrophysiology", "review"]
-categories: ["Reading"]
+tags: ["cardiomyocyte", "ODE", "PDE", "electrophysiology"]
+categories: ["Review"]
+series: ["Heart modeling"]
 author: "Roberts et al."
-math:
-  enable: false
-lightgallery: true
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/76000)[^Roberts2012], [PMC3774200](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3774200).

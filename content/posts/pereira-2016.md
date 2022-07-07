@@ -1,8 +1,9 @@
 ---
 title: "Pereira 2016 : Computational Models of Reactive Oxygen Species as Metabolic Byproducts and Signal-Transduction Modulators"
 date: 2020-10-23T00:33:34+08:00
-tags: ["ROS", "mitochondria", "cardiomyocyte", "review"]
-categories: ["Reading"]
+tags: ["ROS", "mitochondria", "cardiomyocyte"]
+categories: ["Review"]
+series: ["Heart modeling"]
 author: "Pereira et al."
 lightgallery: true
 ---

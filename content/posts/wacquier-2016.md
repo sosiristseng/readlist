@@ -8,7 +8,8 @@ authorLink: ""
 description: ""
 
 tags: ["ODE", "mitochondria", "mitochondrial dynamics", "calcium", "MCU"]
-categories: ["Reading"]
+categories: []
+series: ["MitoDyn"]
 
 hiddenFromHomePage: false
 hiddenFromSearch: false

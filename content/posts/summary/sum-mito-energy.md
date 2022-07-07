@@ -2,7 +2,7 @@
 title: "Mitochondrial Energetics: a summary"
 date: 2020-10-23T00:51:11+08:00
 tags: ["ATP", "mitochondria", "summary"]
-categories: ["Reading"]
+categories: []
 lightgallery: true
 ---
 

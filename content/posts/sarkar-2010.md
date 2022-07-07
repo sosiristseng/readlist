@@ -2,7 +2,8 @@
 title: "Sarkar 2010 : Regression analysis for constraining free parameters in electrophysiological models of cardiac cells"
 date: 2020-10-23T00:39:53+08:00
 tags: ["ODE", "electrophysiology", "cardiomyocyte"]
-categories: ["Reading"]
+categories: []
+series: ["Heart modeling"]
 author: "Sarkar et al."
 lightgallery: true
 ---

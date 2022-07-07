@@ -1,9 +1,10 @@
 ---
 title: "Kussmaul 2006 : The mechanism of superoxide production by NADH:ubiquinone oxidoreductase (complex I) from bovine heart mitochondria"
 date: 2020-10-23T00:16:29+08:00
-tags: ["complex 1", "ROS", "mitochondria", "cardiomyocyte"]
-categories: ["Reading"]
-author: "Kussmaul et al."
+tags: ["complex 1", "ROS", "mitochondria", "cardiomyocyte", "electron transport chain", "OXPHOS"]
+categories: []
+series: ["Heart modeling", "ETC review"]
+author: "Kussmaul and others"
 lightgallery: true
 ---
 

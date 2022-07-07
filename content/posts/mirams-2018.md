@@ -2,8 +2,9 @@
 title: "Mirams 2018 : Uncertainty and variability in computational and mathematical models of cardiac physiology"
 date: 2020-10-23T00:25:24+08:00
 tags: ["cardiomyocyte", "electrophysiology"]
-categories: ["Reading"]
-author: "Mirams et al."
+categories: ["Review"]
+series: ["Heart modeling"]
+author: "Mirams and others"
 lightgallery: true
 ---
 

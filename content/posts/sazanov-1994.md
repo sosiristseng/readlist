@@ -2,7 +2,8 @@
 title: "Sazanov 1994 : Proton-translocating transhydrogenase and NAD- and NADP-linked isocitrate dehydrogenases operate in a substrate cycle which contributes to fine regulation of the tricarboxylic acid cycle activity in mitochondria"
 date: 2020-10-23T00:40:33+08:00
 tags: ["mitochondria", "citric acid cycle"]
-categories: ["Reading"]
+categories: []
+series: ["Heart modeling"]
 author: "Sazanov et al."
 lightgallery: true
 ---

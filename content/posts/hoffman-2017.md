@@ -3,22 +3,13 @@ title: "Hoffman 2017 : A multimethod computational simulation approach for inves
 subtitle: ""
 date: 2021-07-15T16:43:13+08:00
 draft: false
-author: ""
+author: "Hoffman and others"
 authorLink: ""
 description: ""
 
-tags: ["ODE", "mitochondria", "mitochondrial dynamics", "ROS", "differential equations", "stochastic modeling"]
-categories: ["Reading"]
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
-
-toc:
-  enable: true
-lightgallery: true
+tags: ["ODE", "mitochondria", "mitochondrial dynamics", "ROS", "stochastic modeling"]
+categories: []
+series: ["MitoDyn"]
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/5413180/)[^Hoffman2017], [PMC5676065](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5676065/)

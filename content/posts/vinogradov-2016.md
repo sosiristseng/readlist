@@ -1,8 +1,9 @@
 ---
 title: "Vinogradov 2016 : Oxidation of NADH and ROS production by respiratory complex I"
 date: 2020-10-23T00:54:35+08:00
-tags: ["ROS", "complex 1", "mitochondria"]
-categories: ["Reading"]
+tags: ["ROS", "complex 1", "mitochondria", "electron transport chain"]
+categories: []
+series: ["Heart modeling", "ETC review"]
 author: "Vinogradov et al."
 lightgallery: true
 ---

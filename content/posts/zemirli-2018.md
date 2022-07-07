@@ -3,12 +3,13 @@ title: "Zemirli 2018 : Mitochondrial Dynamics in Basal and Stressful Conditions"
 subtitle: ""
 date: 2021-07-15T21:01:45+08:00
 draft: false
-author: ""
+author: "Zemirli et al"
 authorLink: ""
 description: ""
 
-tags: ["mitochondria", "mitochondrial dynamics", "review"]
-categories: ["Reading"]
+tags: ["mitochondria", "mitochondrial dynamics"]
+categories: ["Review"]
+series: ["MitoDyn"]
 
 hiddenFromHomePage: false
 hiddenFromSearch: false

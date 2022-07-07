@@ -2,9 +2,9 @@
 title: "Rocha 2011 : Accelerating cardiac excitation spread simulations using graphics processing units"
 date: 2020-10-23T00:37:43+08:00
 tags: ["GPU", "PDE", "cardiomyocyte"]
-categories: ["Reading"]
+categories: []
+series: ["Heart modeling"]
 author: "Rocha et al."
-lightgallery: true
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/3933120)[^Rocha2011], [DOI](http://doi.wiley.com/10.1002/cpe.1683).

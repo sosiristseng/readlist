@@ -2,9 +2,9 @@
 title: "Ohara 2012 : Quantitative comparison of cardiac ventricular myocyte electrophysiology and response to drugs in human and nonhuman species"
 date: 2020-10-23T00:31:44+08:00
 tags: ["ODE", "cardiomyocyte", "electrophysiology"]
-categories: ["Reading"]
+categories: ["Review"]
+series: ["Heart modeling"]
 author: "OHara et al."
-lightgallery: true
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/1270875)[^OHara2012]

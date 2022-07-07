@@ -3,23 +3,13 @@ title: "Kornick 2019 : Population dynamics of mitochondria in cells: A minimal m
 subtitle: ""
 date: 2021-07-20T17:33:24+08:00
 draft: false
-author: ""
+author: "Kornick and others"
 authorLink: ""
 description: ""
 
-tags: ["mitochondria", "mitochondrial dynamics", "ATP", "ODE", "differential equations"]
-categories: ["Reading"]
-
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
-
-toc:
-  enable: true
-lightgallery: true
+tags: ["mitochondria", "mitochondrial dynamics", "ATP", "ODE"]
+categories: []
+series: ["MitoDyn"]
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/7993522)[^Kornick2019], [Front Phys. 2019 Oct 9;7](https://www.frontiersin.org/articles/10.3389/fphy.2019.00146/full).

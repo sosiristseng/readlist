@@ -3,22 +3,13 @@ title: "Miyamoto 2015 : Compartmentalized AMPK Signaling Illuminated by Genetica
 subtitle: ""
 date: 2021-07-21T13:45:15+08:00
 draft: false
-author: "Miyamoto et al"
+author: "Miyamoto and others"
 authorLink: ""
 description: ""
 
-tags: ["ATP", "mitochondria", "AMPK"]
-categories: ["Reading"]
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
-
-toc:
-  enable: true
-lightgallery: true
+tags: ["ATP", "mitochondria", "AMPK", "AMP"]
+categories: []
+series: ["MitoDyn"]
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/2649224)[^Miyamoto2015], [PMC4417068](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4417068/)

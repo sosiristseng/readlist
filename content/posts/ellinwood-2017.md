@@ -1,9 +1,9 @@
 ---
 title: "Ellinwood 2017 : In Silico Assessment of Efficacy and Safety of IKur Inhibitors in Chronic Atrial Fibrillation: Role of Kinetics and State-Dependence of Drug Binding"
 date: 2020-10-22T23:52:20+08:00
-tags: ["ODE", "cardiomyocyte", "electrophysiology", "differential equations"]
-categories: ["Reading"]
-author: "Ellinwood et al."
+tags: ["ODE", "cardiomyocyte", "electrophysiology", "atria"]
+series: ["Heart modeling"]
+author: "Ellinwood and others"
 lightgallery: true
 ---
 

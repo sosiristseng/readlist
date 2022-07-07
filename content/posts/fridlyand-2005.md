@@ -3,18 +3,13 @@ title: "Fridlyand 2005 : Adenine nucleotide regulation in pancreatic beta-cells:
 subtitle: ""
 date: 2021-07-21T14:29:11+08:00
 draft: false
-author: ""
+author: "Fridlyand and others"
 authorLink: ""
 description: ""
 
-tags: ["mitochondria", "calcium", "ATP", "differential equations"]
-categories: ["Reading"]
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
+tags: ["mitochondria", "calcium", "ATP", "ODE", "beta-cell"]
+categories: []
+series: ["MitoDyn"]
 
 toc:
   enable: true
@@ -33,9 +28,9 @@ In beta cells, elevated levels of glucose causes an increase in the ratio of ATP
 
 Intracellular free MgADP stimulates KATP channel activity, and it has been suggested that ADP, or the ATP/ADP ratio, is responsible for channel regulation in vivo.
 
-Changes in [ATP]/[ADP] are tightly coupled to oscillations in intracellular free Ca2+, oxygen, and glucose consumption in pancreatic β-cells.
+Changes in $[ATP]:[ADP]$ are tightly coupled to oscillations in intracellular free Ca2+, oxygen, and glucose consumption in pancreatic β-cells.
 
-Two main types of [Ca2+]i oscillations in pancreatic β-cells: fast, where the period ranges from 10 to 30 seconds; and slow, with periods of several minutes. We focus here only on the slow oscillations in pancreatic β-cells.
+Two main types of $[Ca^{2+}]_i$ oscillations in pancreatic β-cells: fast, where the period ranges from 10 to 30 seconds; and slow, with periods of several minutes. We focus here only on the slow oscillations in pancreatic β-cells.
 
 ## Materials
 

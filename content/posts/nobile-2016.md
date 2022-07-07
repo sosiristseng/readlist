@@ -1,9 +1,10 @@
 ---
 title: "Nobile 2016 : Graphics processing units in bioinformatics, computational biology and systems biology"
 date: 2020-10-23T00:28:01+08:00
-tags: ["GPU", "review", "differential equations"]
-categories: ["Reading"]
-author: "Nobile et al."
+tags: ["GPU", "electropjhysiology" , "PDE"]
+categories: ["Review"]
+series: ["Heart modeling"]
+author: "Nobile and others"
 lightgallery: true
 ---
 

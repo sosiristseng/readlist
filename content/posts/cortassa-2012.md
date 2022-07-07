@@ -1,9 +1,10 @@
 ---
 title: "Cortassa 2012 : Computational modeling of mitochondrial function"
 date: 2020-10-22T18:29:19+08:00
-tags: ["review", "mitochondria", "citric acid cycle", "cardiomyocyte"]
-categories: ["Reading"]
-author: "Cortassa S, Aon MA"
+tags: ["mitochondria", "citric acid cycle", "cardiomyocyte", "ODE"]
+categories: ["Review"]
+series: ["Heart modeling"]
+author: "Cortassa S and Aon MA"
 lightgallery: true
 ---
 

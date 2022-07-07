@@ -1,10 +1,10 @@
 ---
 title: "Michailova 2005 : Modeling regulation of cardiac KATP and L-type Ca2+ currents by ATP, ADP, and Mg"
 date: 2020-10-23T00:24:39+08:00
-tags: ["ODE", "cardiomyocyte", "calcium", "electrophysiology", "magnesium"]
-categories: ["Reading"]
-author: "Michailova et al."
-lightgallery: true
+tags: ["ODE", "cardiomyocyte", "calcium", "electrophysiology", "magnesium", "ATP", "potassium"]
+categories: []
+series: ["Heart modeling"]
+author: "Michailova and others"
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/1270470)[^Michailova2005], [PMC1305273](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1305273/)

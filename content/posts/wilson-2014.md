@@ -1,8 +1,9 @@
 ---
 title: "Wilson 2014 : Mitochondrial cytochrome c oxidase: mechanism of action and role in regulating oxidative phosphorylation"
 date: 2020-10-23T00:57:26+08:00
-tags: ["complex 4", "mitochondria"]
-categories: ["Reading"]
+tags: ["complex 4", "mitochondria", "electron transport chain"]
+categories: []
+series: ["Heart modeling", "ETC review"]
 lightgallery: true
 author: "Wilson et al."
 ---

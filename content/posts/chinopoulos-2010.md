@@ -1,9 +1,9 @@
 ---
 title: "Chinopoulos 2010 : Forward operation of adenine nucleotide translocase during F0F1-ATPase reversal: critical role of matrix substrate-level phosphorylation"
 date: 2020-10-22T18:26:01+08:00
-tags: ["adenine nucleotide translocase", "ATP synthase", "ATP", "mitochondria", "cardiomyocyte"]
-categories: ["Reading"]
-author: "Chinopoulos et al."
+tags: ["adenine nucleotide translocase", "ATP synthase", "complex 5", "ATP", "mitochondria", "cardiomyocyte", "OXPHOS"]
+series: ["Heart modeling", "ETC review"]
+author: "Chinopoulos and others"
 lightgallery: true
 ---
 
@@ -36,7 +36,7 @@ lightgallery: true
 
 $[L]_t$ is the total ATP concentration, i.e., $[ATP^{4−}] + [HATP^{3−}] + [MgATP^{2−}] + [HMgATP^−]$
 
-* both ANT and the F0F1-ATPase handle the measured free [ATP] and [ADP]
+* both ANT and the F0F1-ATPase handle the measured free $[ATP]$ and $[ADP]$
 
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2887268/bin/z380071078190001.jpg)
 
@@ -56,6 +56,7 @@ $[L]_t$ is the total ATP concentration, i.e., $[ATP^{4−}] + [HATP^{3−}] + [M
     * mitochondria consumed cytosolic ATP, but a rebound increase (Pasteur effect) in the glycolytic ATP output compensated adequately
 
 ## Discussion
+
 * F1Fo-ATPase is able to work in reverse without the concomitant reversal of ANT
 * matrix substrate-level phosphorylation could be critical in providing ATP for the reversed F1Fo-ATPase,
 maintaining ΔΨm at a suboptimal level, where mitochondria are depolarized, but not sufficiently for the ANT to reverse. This would assist in preserving the ATP pool produced by glycolysis, which is evidently crucial for the survival chances of cells due to maintenance of the function of the vital ATP-dependent transporters, such as Na+/K+-ATPase and Ca2+-ATPase
@@ -63,4 +64,5 @@ maintaining ΔΨm at a suboptimal level, where mitochondria are depolarized, but
 * Inhibition of the respiratory chain of in situ mitochondria failed to activate in all cells the cytosolic ATP sensing mechanisms activated by a drop in [ATP] levels. Moderate loss of ΔΨm not enough to reverse ANT.
 
 ## Reference
+
 [^Chinopoulos2010]: Chinopoulos C, Gerencser AA, Mandi M, et al. Forward operation of adenine nucleotide translocase during F0F1-ATPase reversal: critical role of matrix substrate-level phosphorylation. FASEB J. 2010;24(7):2405-2416. doi:10.1096/fj.09-149898.

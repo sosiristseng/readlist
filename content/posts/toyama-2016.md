@@ -8,7 +8,8 @@ authorLink: ""
 description: ""
 
 tags: ["ATP", "mitochondria", "AMPK", "beta-cell", "mitochondrial dynamics"]
-categories: ["Reading"]
+categories: []
+series: ["MitoDyn"]
 
 hiddenFromHomePage: false
 hiddenFromSearch: false

@@ -1,10 +1,10 @@
 ---
 title: "Bazil 2010 : Modeling mitochondrial bioenergetics with integrated volume dynamics"
 date: 2020-10-22T17:35:32+08:00
-tags: ["differential equations"]
 tags: ["ODE", "mitochondria", "citric acid cycle", "cardiomyocyte"]
-categories: ["Reading"]
-author: "Bazil et al."
+categories: []
+series: ["Heart modeling", "ETC review"]
+author: "Bazil and others"
 lightgallery: true
 ---
 

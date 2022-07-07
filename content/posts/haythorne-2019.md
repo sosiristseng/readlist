@@ -3,22 +3,13 @@ title: "Haythorne 2019 : Diabetes causes marked inhibition of mitochondrial meta
 subtitle: ""
 date: 2021-07-20T21:03:26+08:00
 draft: false
-author: ""
+author: "Haythorne and others"
 authorLink: ""
 description: ""
 
 tags: ["mitochondria", "mitochondrial dynamics", "ATP", "beta-cell", "citric acid cycle", "glycolysis", "diabetes", "OXPHOS"]
-categories: ["Reading"]
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
-
-toc:
-  enable: true
-lightgallery: true
+categories: []
+series: ["MitoDyn"]
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/7187487)[^Haythorne2019], [PMC6554411](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6554411/)

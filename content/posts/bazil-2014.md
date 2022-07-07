@@ -3,17 +3,16 @@ title: "Bazil 2014 : Determining the origins of superoxide and hydrogen peroxide
 date: 2020-10-22T17:42:35+08:00
 tags: ["differential equations"]
 tags: ["ODE", "ROS", "enzyme kinetics", "complex 1", "mitochondria", "cardiomyocyte"]
-categories: ["Reading"]
-author: "Bazil et al."
-math:
-  enable: false
+categories: []
+series: ["Heart modeling", "ETC review"]
+author: "Bazil and others"
 lightgallery: true
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/5916864)[^Bazil2014], [PMC4258523](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4258523).
 
-
 [^Bazil2014]: Bazil JN, Pannala VR, Dash RK, Beard DA. Determining the origins of superoxide and hydrogen peroxide in the mammalian NADH:ubiquinone oxidoreductase. Free Radic. Biol. Med. 2014;77:121-129. doi:10.1016/j.freeradbiomed.2014.08.023.
+
 <!--more-->
 
 ## Introduction

@@ -2,9 +2,9 @@
 title: "Ohara 2011 : Simulation of the undiseased human cardiac ventricular action potential: model formulation and experimental validation"
 date: 2020-10-23T00:30:54+08:00
 tags: ["ODE", "cardiomyocyte", "electrophysiology"]
-categories: ["Reading"]
+categories: []
+
 author: "OHara et al."
-lightgallery: true
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/1270876)[^OHara2011]

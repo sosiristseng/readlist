@@ -1,8 +1,9 @@
 ---
 title: "Stark 2014 : The mitochondrial isoform of phosphoenolpyruvate carboxykinase (PEPCK-M) and glucose homeostasis: has it been overlooked"
 date: 2020-10-23T00:45:39+08:00
-tags: ["ATP", "mitochondria", "GTP", "beta-cell"]
-categories: ["Reading"]
+tags: ["ATP", "mitochondria", "GTPase", "beta-cell"]
+categories: []
+series: ["MitoDyn"]
 author: "Stark et al."
 lightgallery: true
 ---

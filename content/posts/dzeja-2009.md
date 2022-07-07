@@ -3,18 +3,13 @@ title: "Dzeja 2009 : Adenylate Kinase and AMP Signaling Networks: Metabolic Moni
 subtitle: ""
 date: 2021-07-14T22:18:49+08:00
 draft: false
-author: ""
+author: "Dzeja and others"
 authorLink: ""
 description: ""
 
-tags: ["adenylate kinase", "AMPK", "mitochondria", "ATP", "review"]
-categories: ["Reading"]
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
+tags: ["adenylate kinase", "AMPK", "mitochondria", "ATP"]
+categories: ["Review"]
+series: ["MitoDyn"]
 
 toc:
   enable: true

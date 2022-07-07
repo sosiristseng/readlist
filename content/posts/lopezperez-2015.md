@@ -1,9 +1,10 @@
 ---
 title: "Lopezperez 2015 : Three-dimensional cardiac computational modelling: methods, features and applications"
 date: 2020-10-23T00:20:30+08:00
-tags: ["cardiomyocyte", "review", "ODE", "PDE", "differential equations"]
-categories: ["Reading"]
-author: "Lopezperez et al."
+tags: ["cardiomyocyte", "ODE", "PDE"]
+categories: ["Review"]
+series: ["Heart modeling"]
+author: "Lopezperez and others"
 lightgallery: true
 ---
 

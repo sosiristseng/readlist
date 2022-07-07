@@ -3,22 +3,13 @@ title: "Leung 2021 : Systems modeling predicts that mitochondria ER contact site
 subtitle: ""
 date: 2021-07-11T23:23:34+08:00
 draft: false
-author: ""
+author: "Leung and others"
 authorLink: ""
 description: ""
 
-tags: ["calcium", "PDE", "neuron", "endoplasmic reticulum", "mitochondria", "differential equations"]
-categories: ["Reading"]
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
-
-toc:
-  enable: true
-lightgallery: true
+tags: ["calcium", "PDE", "neuron", "endoplasmic reticulum", "mitochondria"]
+categories: []
+series: []
 ---
 
 > Systems modeling predicts that mitochondria ER contact sites regulate the postsynaptic energy landscape

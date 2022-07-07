@@ -2,7 +2,7 @@
 title: "Modeling of enzyme kinetics: a summary"
 date: 2020-10-23T00:48:05+08:00
 tags: ["enzyme kinetics", "summary"]
-categories: ["Reading"]
+categories: []
 lightgallery: true
 ---
 

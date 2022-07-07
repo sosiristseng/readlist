@@ -1,10 +1,10 @@
 ---
 title: "Hettling 2011 : Analyzing the functional properties of the creatine kinase system with multiscale sloppy modeling"
 date: 2020-10-23T00:07:29+08:00
-tags: ["ODE", "creatine kinase", "mitochondria", "differential equations"]
-categories: ["Reading"]
-author: "Hettling et al."
-lightgallery: true
+tags: ["ODE", "creatine kinase", "mitochondria", "ATP"]
+categories: []
+series: ["Heart modeling"]
+author: "Hettling and others"
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/3678110)[^Hettling2011], [PMC3166207](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3166207)
