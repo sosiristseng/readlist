@@ -8,7 +8,9 @@ author: "Bhattacharya and others"
 lightgallery: true
 ---
 
-[Sciwheel](https://sciwheel.com/work/#/items/8067645/)[^Bhattacharya2019] [^Bhattacharya2019]: Bhattacharya M, Dutta A. Computational Modeling of the Photon Transport, Tissue Heating, and Cytochrome C Oxidase Absorption during Transcranial Near-Infrared Stimulation. Brain Sci. 2019 Jul 27;9(8). http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6721367
+[Sciwheel](https://sciwheel.com/work/#/items/8067645/)[^Bhattacharya2019] 
+
+[^Bhattacharya2019]: Bhattacharya M, Dutta A. Computational Modeling of the Photon Transport, Tissue Heating, and Cytochrome C Oxidase Absorption during Transcranial Near-Infrared Stimulation. Brain Sci. 2019 Jul 27;9(8). http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6721367
 
 <!--more-->
 
