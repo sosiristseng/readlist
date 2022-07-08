@@ -8,7 +8,7 @@ author: "Bhattacharya and others"
 lightgallery: true
 ---
 
-[Sciwheel](https://sciwheel.com/work/#/items/8067645/)[^Bhattacharya2019], [BioRxiv](https://www.biorxiv.org/content/10.1101/708362v1.)
+[Sciwheel](https://sciwheel.com/work/#/items/8067645/)[^Bhattacharya2019] [^Bhattacharya2019]: Bhattacharya M, Dutta A. Computational Modeling of the Photon Transport, Tissue Heating, and Cytochrome C Oxidase Absorption during Transcranial Near-Infrared Stimulation. Brain Sci. 2019 Jul 27;9(8). http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6721367
 
 <!--more-->
 
@@ -52,4 +52,4 @@ The Pennes Bio-heat equation:
 * 810nm has higher penetration depth than the 630nm and 700nm, which supports the use of tNIRS for non-invasive brain stimulation.
 
 ## Reference
-[^Bhattacharya2019]: Bhattacharya, M., & Dutta, A. (2019). Computational modeling of the photon transport, tissue heating, and cytochrome C oxidase absorption during transcranial near-infrared stimulation. BioRxiv. https://www.biorxiv.org/content/10.1101/708362v1.
+
