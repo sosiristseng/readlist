@@ -1,0 +1,49 @@
+# Tran 2015: Regulation of cardiac cellular bioenergetics: mechanisms and consequences
+
+
+[Sciwheel](https://sciwheel.com/work/#/items/12431073) [^Tran2015]
+
+[^Tran2015]: Tran K, Loiselle DS, Crampin EJ. Regulation of cardiac cellular bioenergetics: mechanisms and consequences. Physiol Rep. 2015 Jul;3(7). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4552539/
+
+<!--more-->
+
+## Introduction
+
+Metabolite stability during workload changes
+- calcium feed-forward: stimulatory effects have been shown to be completely saturated at the lowest physiological Ca2+ concentrations under physiological temperature and ionic conditions.
+- Inorganic phosphate and ADP feedback: Pi activating complex III was capable of improving the fit of the mitochondria model to data on isolated mitochondria.
+
+## Model
+In this study, we use mathematical modeling to investigate the significance of Ca2+-mediated feed-forward versus Pi-mediated feedback mechanisms in regulating energy supply to match energy demand. The ventricular myocyte cell model used in this study is based on that of [Crampin and Smith (2006)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1432112/).
+
+![image](https://user-images.githubusercontent.com/40054455/177942664-fdddbe5d-e5c8-4c7d-8879-924b82017955.png)
+
+### ATP consumption
+
+- Na+/K+ pump (NKA): [Terkildsen et al. (2007) model](https://pubmed.ncbi.nlm.nih.gov/17873015/)
+- SERCA: [Tran et al. 2009 model.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2717298/)
+- Cross-bridge cycling: [Tran et al. 2010 model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2808479/)
+
+Assuming the hydrolysis of magnesium-bound ATP (MgATP) is tightly (stoichiometrically) coupled to the enzymatic cycles of each of the three ATPases.
+
+### ATP supply
+
+[Beard (2005) model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1201326/)
+- CAC: Activated by calcium
+- Complex III: Activated by inorganic phosphate
+
+## Results
+
+Average steady-state values of the cytosolic metabolite and ion concentrations
+
+![Table 2](https://user-images.githubusercontent.com/40054455/177945246-0dafd7ec-7c46-4413-bd27-8aed5995f3b2.png)
+
+Metabolite / ion changes vs. sarcomere length (SL).
+
+## Discussion
+
+We find that neither Ca2+- nor Pi-mediated regulation of the **dehydrogenase flux** is capable of upregulating mitochondrial ATP production rate above that of substrate availability (from MgADP and Pi). We find that this **activation of complex III**, downstream of the dehydrogenase flux, leads to increased stability of cellular metabolite concentrations.
+
+Our model predicts that NADH concentration is not a good indicator of mitochondrial respiration rate. Our simulations suggest that the only one capable of increasing mitochondrial ATP supply above that of substrate availability, is **Pi regulation of respiratory complex III**.
+
+
