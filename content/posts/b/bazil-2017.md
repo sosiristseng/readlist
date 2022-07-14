@@ -4,11 +4,11 @@ title: "Bazil 2017: Analysis of a Functional Dimer Model of Ubiquinol Cytochrome
 subtitle: ""
 date: 2022-07-14T13:21:31+08:00
 draft: false
-author: ""
+author: "Bazil et al"
 authorLink: ""
 description: ""
 
-tags: ["complex 3", "ROS", "mitochondria"]
+tags: ["complex 3", "ROS", "mitochondria", "enzyme kinetics"]
 categories: []
 series: ["ETC review"]
 seriesNavigation: true
