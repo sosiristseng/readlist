@@ -1,12 +1,11 @@
 ---
-title: "Bazil 2013 : Catalytic coupling of oxidative phosphorylation, ATP demand, and reactive oxygen species generation"
+title: "Bazil 2013: Analysis of the Kinetics and Bistability of Ubiquinol:Cytochrome c Oxidoreductase"
 date: 2020-10-22T17:36:38+08:00
 tags: ["differential equations"]
 tags: ["ODE", "ROS", "complex 3", "ATP", "mitochondria", "enzyme kinetics", "cardiomyocyte"]
 categories: []
 series: ["Heart modeling", "ETC review"]
 author: "Bazil and others"
-lightgallery: true
 ---
 
 [Sciwheel](https://sciwheel.com/work/#/items/5931055)[^Bazil2013], [PMC3714890](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3714890/)
@@ -20,14 +19,14 @@ lightgallery: true
 * The biochemical equation of Complex III for the net reaction is shown as
 ![image](https://user-images.githubusercontent.com/40054455/125469534-2b76f5cb-5574-424a-891e-c29287fe58f7.png)
 
-* Previous models are either too simple or too complex
-* The model developed here maintains the features presented above in a tenable, well-constrained representation of the bc1 complex
+* Previous models are either too simple (Demin?) or too complex. (the 300-state model)
+* Our model maintains the features presented above in a tenable, well-constrained representation of the bc1 complex.
 
 ## Methods
 
 ###  Model structure
 
-![image](https://user-images.githubusercontent.com/40054455/125469589-33ac25ef-39ab-4336-a0be-cf3c43d0226c.png)
+![image](https://user-images.githubusercontent.com/40054455/125469589-33ac25ef-39ab-4336-a0be-cf3c43d0226c.png "Schematics")
 * This model includes the redox biochemistry that occurs at the Qo-site and Qi-site of the complex and couples cyt c reduction with the first electron transfer from ubiquinol
 * This first electron transfer at the Qo-site is the one of the primary, rate-limiting steps in the catalytic cycle
 * we assume that up to two mobile electrons can exist at both the Qo-site and Qi-site
@@ -38,9 +37,9 @@ lightgallery: true
 * State transitions are governed by two primary Gibb’s free energies of reaction.
 * The net turnover flux through the enzyme: ![image](https://user-images.githubusercontent.com/40054455/125469631-37c1bba4-0f62-40c1-9240-28a1c40ede4a.png)
 * Superoxide production rate: ![image](https://user-images.githubusercontent.com/40054455/125469677-4c688c85-1af7-4771-8be7-87e034bb43f5.png)
-*  analytic expressions for the states at steady state
-![image](https://user-images.githubusercontent.com/40054455/125469714-dfcf4c2f-4038-4701-a7e4-4c34390d7613.png)
-* The analytical solution for each state contains ∼1000 terms, so they are not explicitly presented here (using KA method ?)
+* Analytic expressions for the states at steady state as a set of linear equations. The analytical solution for each state contains ∼1000 terms using King-Altman method (?), so they are not explicitly presented here.
+  ![image](https://user-images.githubusercontent.com/40054455/125469714-dfcf4c2f-4038-4701-a7e4-4c34390d7613.png)
+
 
 ## Results and Discussion
 
@@ -48,12 +47,12 @@ lightgallery: true
     * midpoint potentials, stability constants, pKa values, and other parameters
 * [Table2](https://www.cell.com/biophysj/fulltext/S0006-3495(13)00616-4#tbl2):  fitted parameter values and sesitivity
 
-![image](https://user-images.githubusercontent.com/40054455/125469850-3dfab754-ada9-4f2f-a409-e06901063398.png)
-![image](https://user-images.githubusercontent.com/40054455/125469903-87cf7134-241e-47d2-ac65-f6d5cc9f857f.png)
-![image](https://user-images.githubusercontent.com/40054455/125469919-30947d5a-858f-4cfe-8cae-c10286b3476c.png)
-![image](https://user-images.githubusercontent.com/40054455/125469928-1598eaaf-9384-4b56-bab7-a0b960c827ab.png)
-![image](https://user-images.githubusercontent.com/40054455/125470062-d636068d-cbba-4dc6-aa38-19a46ac48cd9.png)
+![image](https://user-images.githubusercontent.com/40054455/125469850-3dfab754-ada9-4f2f-a409-e06901063398.png "Turnover rate of isolated bc1 complex oxidizing decylhydroquinone (DQH2)")
+![image](https://user-images.githubusercontent.com/40054455/125469903-87cf7134-241e-47d2-ac65-f6d5cc9f857f.png "Turnover rate of reconstituted bc1 complex in proteoliposomes oxidizing nonylubihydroquinone (NBH)")
+![image](https://user-images.githubusercontent.com/40054455/125469919-30947d5a-858f-4cfe-8cae-c10286b3476c.png "urnover rate of isolated bc1 complex oxidizing ubiquinol-2 (Q2H2)")
+![image](https://user-images.githubusercontent.com/40054455/125469928-1598eaaf-9384-4b56-bab7-a0b960c827ab.png "Turnover rate of isolated bc1 complex oxidizing Q2H2")
+![image](https://user-images.githubusercontent.com/40054455/125470062-d636068d-cbba-4dc6-aa38-19a46ac48cd9.png "The effect of proton-motive potential on turnover and extent of cyt b reduction")
 
 * The cyt c binding constants were assumed to be similar to the fitted constants for horse heart cyt c, based on its apparent universal nature as a substrate for bc1 complexes from other species
 
-![image](https://user-images.githubusercontent.com/40054455/125470136-d86f5e9e-e23c-419c-bc33-c11ceead16ef.png)
+![image](https://user-images.githubusercontent.com/40054455/125470136-d86f5e9e-e23c-419c-bc33-c11ceead16ef.png "Model simulations with the native substrate parameters of flux through the bc1 complex, superoxide production, and the bistability phenomenon.")
