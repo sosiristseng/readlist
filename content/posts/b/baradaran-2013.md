@@ -50,6 +50,6 @@ Complex I consists of
 - membrane domain: for proton translocation coupled with the hydrophilic domain. For each NADH is oxidized and 2 electrons are transferred to a ubiquinone, 4 proton are pumped outwards by conformational changes in this domain.
 - accessory subunits: protecctive shell and may have a specialized functional role 
 
-![image](https://user-images.githubusercontent.com/40054455/178902031-0fe797bc-b010-47d0-b126-98ca87460bd1.png)
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3672946/bin/emss-50981-f0001.jpg "Structure of the entire complex I from T. thermophilus")
 
-![image](https://user-images.githubusercontent.com/40054455/178902691-4ba8e5a3-57da-4b6d-8f70-3ba8514e3c39.png)
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3672946/bin/emss-50981-f0005.jpg "Proposed coupling mechanism of complex I")
