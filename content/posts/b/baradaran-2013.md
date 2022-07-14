@@ -8,7 +8,7 @@ authorLink: ""
 description: ""
 
 tags: ["mitochondria", "OXPHOS", "complex", "molecular structure"]
-categories: ["Revies"]
+categories: ["Review"]
 series: ["ETC review"]
 seriesNavigation: true
 
