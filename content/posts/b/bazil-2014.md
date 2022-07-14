@@ -20,7 +20,7 @@ lightgallery: true
 * The type and origin of ROS produced by mammalian Complex I are controversial: FMN vs IQ site vs Fe-S clusterN2
 
 ## Material and Methods
-![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4258523/bin/nihms628859f1.jpg)
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4258523/bin/nihms628859f1.jpg "Model schematics")
 * Global thermodynamic consistency is ensured by constraining the reverse rate of each half-reaction. We assume that substrate and product binding only depend on the redox state of the nearest redox center
 * we only consider the redox states for the FMN, Fe-S cluster N2, and SQ.
 
@@ -69,11 +69,11 @@ All midpoint potentials were taken from the literature or directly fit to redox-
 * The ability of a SQ to reduce oxygen to for superoxide in Complex I is still debated.
 * There must be a high ΔΨ and a highly reduced Q pool (RET condition) in order for an appreciable amount of SQ to form
 * The model best reproduced the data when superoxide from the Fe-S cluster **N2 was excluded**.
-* FMN radical is only a significant source of ROS when Q is absent or Q reductase site inhibitors are present. This is consistent with the findings of Kussmaul and Hirst
+* *FMN radical* is only a significant source of ROS when Q is absent or Q reductase site inhibitors are present. This is consistent with the findings of Kussmaul and Hirst.
 
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4258523/bin/nihms628859f4.jpg "Model simulations of NADH oxidation rates as a function of Q pool redox state at various fixed Δp’s")
-* The model is hypersensitive to Δp, and at Δp< 100 mV the rate of NADH oxidation is increasingly insensitive to the Q pool redox state and only depends on the NAD(H) pool redox state
-* we do not have sufficient data to conclusively determine how the energetic cost of proton pumping is distributed in the reaction mechanism
+* The model is hypersensitive to Δp, and at Δp<100 mV the rate of NADH oxidation is increasingly insensitive to the Q pool redox state and only depends on the NAD(H) pool redox state.s
+* we do not have sufficient data to conclusively determine how the energetic cost of proton pumping is distributed in the reaction mechanism.
 
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4258523/bin/nihms628859f5.jpg "Model simulation of ROS stoichiometric coefficient, n, NADH oxidation, and ROS production as a function of ΔΨ, matrix pH, %NADH, and %Q")
 * At low ΔΨ and pH, n is small and nearly all of the electrons from NADH reach their intended target, Q. As both ΔΨ and pH increase, not only does n increase, but also, the amount of RET increases as well
